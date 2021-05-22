@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Giancarlo.
-## Check out my portfolio [here](https://buenaflor.github.io/portfolio/)
+#### Check out my portfolio [here](https://buenaflor.github.io/portfolio/)
 
 - 🎓 4th semester student at Vienna University of Technology
 - 🔭 I’m currently working on a full stack application based on collaborations and coaching. You can read more about it on my portfolio!
