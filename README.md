@@ -3,11 +3,11 @@
 
 - 👨‍💻 upcoming software engineering intern @ [Sentry](https://sentry.io/)
 - 🎓 now 5th semester student at Vienna University of Technology
+- 📫 How to reach me: giancarlo_buenaflor@yahoo.com
+
 <!--
 - 🔭 I’m currently working on a full stack application based on collaborations and coaching. You can read more about it on my portfolio!
 -->
-- 📫 How to reach me: giancarlo_buenaflor@yahoo.com
-
 <!--
 **buenaflor/buenaflor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
