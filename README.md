@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Giancarlo.
-#### Check out my portfolio [here](https://giancarlobuenaflor.me)
+#### Check out my portfolio [here](https://giancarlobuenaflor.com)
 
 - 👨‍💻 incoming software engineering intern @ [Sentry](https://sentry.io/)
 - 🎓 now 6th semester student at Vienna University of Technology
