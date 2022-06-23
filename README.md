@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Giancarlo.
 #### Check out my portfolio [here](https://giancarlobuenaflor.com)
 
-- 👨‍💻 software engineering intern @ [Sentry](https://sentry.io/)
+- 👨‍💻 Software Engineering Intern @ [Sentry](https://sentry.io/)
 - 🎓 Vienna University of Technology
 - 📫 How to reach me: giancarlo_buenaflor@yahoo.com
 
