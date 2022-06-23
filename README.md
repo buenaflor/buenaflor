@@ -2,7 +2,7 @@
 #### Check out my portfolio [here](https://giancarlobuenaflor.com)
 
 - 👨‍💻 software engineering intern @ [Sentry](https://sentry.io/)
-- 🎓 now 6th semester student at Vienna University of Technology
+- 🎓 Vienna University of Technology
 - 📫 How to reach me: giancarlo_buenaflor@yahoo.com
 
 <!--
