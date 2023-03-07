@@ -2,7 +2,7 @@
 #### Check out my portfolio [here](https://giancarlobuenaflor.com)
 
 - 👨‍💻 Software Engineering Intern @ [sentry.io](https://sentry.io/)
-- 🔭 Working on the [Sentry Kotlin Multiplatform SDK](https://github.com/getsentry/sentry-kotlin-multiplatform) & [Permaplant App](https://github.com/ElektraInitiative/PermaPlant)
+- 🔭 Working on the [Sentry Kotlin Multiplatform SDK](https://github.com/getsentry/sentry-kotlin-multiplatform)
 - 🎓 Vienna University of Technology
 - 📫 How to reach me: giancarlo_buenaflor@yahoo.com
 
