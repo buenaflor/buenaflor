@@ -3,6 +3,7 @@
 
 - 👨‍💻 Software Engineering Intern @ [sentry.io](https://sentry.io/)
 - ☀️ Google Summer of Code 2023 @ [Kotlin Foundation](https://kotlinfoundation.org/)
+- 🪵 Soon -> Working on Kotlin Multiplatform version of Google's logging tool [Flogger](https://github.com/google/flogger)
 - 🔭 Working on the [Sentry Kotlin Multiplatform SDK](https://github.com/getsentry/sentry-kotlin-multiplatform)
 - 🎓 Vienna University of Technology
 - 📫 How to reach me: giancarlo_buenaflor@yahoo.com
