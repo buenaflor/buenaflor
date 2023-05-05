@@ -1,11 +1,16 @@
-### Hi there 👋, I am Giancarlo.
-#### Check out my portfolio [here](https://giancarlobuenaflor.com)
+# Hi there 👋, I am Giancarlo.
+Check out my portfolio [here](https://giancarlobuenaflor.com)
 
+## Work
+### sentry.io
 - 👨‍💻 Software Engineering Intern @ [sentry.io](https://sentry.io/)
-- ☀️ Google Summer of Code 2023 @ [Kotlin Foundation](https://kotlinfoundation.org/)
-- 🪵 Soon -> Working on Kotlin Multiplatform version of Google's logging tool [Flogger](https://github.com/google/flogger)
 - 🔭 Working on the [Sentry Kotlin Multiplatform SDK](https://github.com/getsentry/sentry-kotlin-multiplatform)
-- 🎓 Vienna University of Technology
+### Google Summer of Code @ Kotlin Foundation
+- ☀️ Google Summer of Code 2023 @ [Kotlin Foundation](https://kotlinfoundation.org/)
+- 🪵 Soon -> Working on the Kotlin Multiplatform version of Google's logging tool [Flogger](https://github.com/google/flogger)
+## Education
+- 🎓 Vienna University of Technology BSc
+## Email
 - 📫 How to reach me: giancarlo_buenaflor@yahoo.com
 
 <!--
