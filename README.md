@@ -3,7 +3,7 @@ Check out my portfolio [here](https://giancarlobuenaflor.com)
 
 ## Work
 ### sentry.io
-- 👨‍💻 Software Engineering Intern @ [sentry.io](https://sentry.io/)
+<!-- 👨‍💻 Software Engineering Intern @ [sentry.io](https://sentry.io/) -->
 - 🔭 Working on the [Sentry Kotlin Multiplatform SDK](https://github.com/getsentry/sentry-kotlin-multiplatform)
 ### Google Summer of Code
 - ☀️ Google Summer of Code 2023 @ [Kotlin Foundation](https://kotlinfoundation.org/)
