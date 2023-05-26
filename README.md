@@ -5,6 +5,7 @@ Check out my portfolio [here](https://giancarlobuenaflor.com)
 ### Google Summer of Code
 - ☀️ Google Summer of Code 2023 @ [Kotlin Foundation](https://kotlinfoundation.org/)
 - 🪵 Working on [KFlogger](https://github.com/buenaflor/KFlogger), the Kotlin Multiplatform version of Google's logging tool [Flogger](https://github.com/google/flogger)
+- 📚 Read about my proposal [here](https://summerofcode.withgoogle.com/programs/2023/projects/O3J16iTy)
 ### sentry.io
 <!-- 👨‍💻 Software Engineering Intern @ [sentry.io](https://sentry.io/) -->
 - 🔭 Core maintainer of the [Sentry Kotlin Multiplatform SDK](https://github.com/getsentry/sentry-kotlin-multiplatform)
