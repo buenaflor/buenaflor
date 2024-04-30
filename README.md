@@ -13,7 +13,7 @@ Check out my portfolio [here](https://giancarlobuenaflor.com)
 ## Education
 - 🎓 Vienna University of Technology BSc
 ## Email
-- 📫 How to reach me: giancarlo_buenaflor@yahoo.com
+- 📫 How to reach me: giancarlobuenaflor97@gmail.com
 
 <!--
 - 🔭 I’m currently working on a full stack application based on collaborations and coaching. You can read more about it on my portfolio!
