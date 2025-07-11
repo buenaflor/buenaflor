@@ -10,7 +10,7 @@
 - 🪵 Worked on [KFlogger](https://github.com/buenaflor/KFlogger), the Kotlin Multiplatform version of Google's logging tool [Flogger](https://github.com/google/flogger). Read about it [here](https://kotlinfoundation.org/news/gsoc-2023-kflogger/).
 - 📚 Read about my proposal [here](https://summerofcode.withgoogle.com/programs/2023/projects/O3J16iTy)
 ## Education
-- 🎓 Vienna University of Technology BSc
+- 🎓 Vienna University of Technology
 ## Email
 - 📫 How to reach me: giancarlobuenaflor97@gmail.com
 
